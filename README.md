@@ -17,7 +17,7 @@ Temukan café terbaik, berikan ulasan, unggah foto, dan bantu pengguna lain mene
 
 ---
 
-## 📖 Tentang Project
+##  Tentang Project
 
 **CaféRate** adalah aplikasi web yang memungkinkan pengguna untuk:
 
@@ -37,9 +37,9 @@ Project ini dikembangkan menggunakan:
 
 ---
 
-# ✨ Fitur Utama
+#  Fitur Utama
 
-## 👤 User
+##  User
 
 * Registrasi akun
 * Login & Logout
@@ -50,7 +50,7 @@ Project ini dikembangkan menggunakan:
 * Upload foto review
 * Melihat review pengguna lain
 
-## 🛠 Admin
+##  Admin
 
 * Dashboard statistik
 * CRUD Café
@@ -60,7 +60,7 @@ Project ini dikembangkan menggunakan:
 
 ---
 
-# 🖼 Tampilan Aplikasi
+#  Tampilan Aplikasi
 
 Tambahkan screenshot project pada folder:
 
@@ -78,19 +78,7 @@ Lalu tampilkan:
 
 ---
 
-# ⚙️ Persyaratan Sistem
-
-| Software | Versi          |
-| -------- | -------------- |
-| PHP      | 8.4+           |
-| Composer | 2.7+           |
-| MySQL    | 8+             |
-| Laravel  | 11             |
-| Node.js  | 18+ (Opsional) |
-
----
-
-# 🚀 Instalasi
+#  Instalasi
 
 ## 1. Clone Repository
 
@@ -180,7 +168,7 @@ http://localhost:8000
 
 ---
 
-# 🔐 Akun Default
+#  Akun Default
 
 ## Admin
 
@@ -196,7 +184,7 @@ http://localhost:8000
 
 ---
 
-# 📂 Struktur Project
+#  Struktur Project
 
 ```text
 caferate/
@@ -226,7 +214,7 @@ caferate/
 
 ---
 
-# 🛠 Teknologi yang Digunakan
+#  Teknologi yang Digunakan
 
 | Teknologi    | Fungsi               |
 | ------------ | -------------------- |
@@ -238,23 +226,4 @@ caferate/
 
 ---
 
-# 👨‍💻 Tim Pengembang
 
-Final Project Web Development
-
-**CaféRate Team**
-
-* Frontend Developer
-* Backend Developer
-* Database Designer
-* UI/UX Designer
-
-*(Sesuaikan dengan anggota kelompok)*
-
----
-
-# 📄 License
-
-Project ini dibuat untuk keperluan akademik dan pembelajaran.
-
-© 2026 CaféRate Team
