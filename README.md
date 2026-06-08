@@ -29,11 +29,13 @@ Temukan café terbaik, berikan ulasan, unggah foto, dan bantu pengguna lain mene
 
 Project ini dikembangkan menggunakan:
 
-* Laravel 11
-* Blade Template Engine
+* Laravel 13
+* PHP 8.3
+* MySQL
+* Blade Template
 * Tailwind CSS
-* MySQL Database
-* Laravel Storage
+* Vite 8
+  
 
 ---
 
@@ -60,30 +62,13 @@ Project ini dikembangkan menggunakan:
 
 ---
 
-#  Tampilan Aplikasi
-
-Tambahkan screenshot project pada folder:
-
-```text
-public/screenshots/
-```
-
-Lalu tampilkan:
-
-```md
-![Homepage](public/screenshots/homepage.png)
-![Cafe Detail](public/screenshots/detail.png)
-![Admin Dashboard](public/screenshots/dashboard.png)
-```
-
----
 
 #  Instalasi
 
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/caferate.git
+git clone https://github.com/Bighailyyy/caferate.git
 cd caferate
 ```
 
@@ -218,11 +203,12 @@ caferate/
 
 | Teknologi    | Fungsi               |
 | ------------ | -------------------- |
-| Laravel 11   | Backend Framework    |
+| Laravel 13   | Backend Framework PHP     |
 | Blade        | Template Engine      |
-| Tailwind CSS | Styling UI           |
+| Tailwind CSS | Styling UI, Framework CSS           |
 | MySQL        | Database             |
-| PHP          | Server Side Language |
+| PHP   8.3    | Server Side Language
+| Vite 8       | Bundler aset modern  |
 
 ---
 
